@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Galal Mohamed
-A passionate Full-Stack developer from Egypt</div>  
+### <div align="center">Hi 👋, I'm Galal Mohamed</div>  
+### <div align="center">A passionate Full-Stack developer from Egypt</div>  
   
 
 - 🌱 I’m currently learning Next.js, Mongodb and GraphQL  
