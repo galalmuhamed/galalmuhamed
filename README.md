@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Hi 👋, I'm Galal Mohamed</div>  
-### <div align="center">A passionate Full-Stack developer from Egypt</div>  
+##### <div align="center">A passionate Full-Stack developer from Egypt</div>  
   
 
 - 🌱 I’m currently learning Next.js, Mongodb and GraphQL  
@@ -80,16 +80,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=galalmuhamed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
