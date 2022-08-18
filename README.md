@@ -5,7 +5,7 @@
 
 ### <div align="center">Hi 👋, I'm Galal Mohamed</div>  
 ##### <div align="center">A passionate Full-Stack developer from Egypt</div>
-##### <a href="https://dynamic-cascaron-50bd18.netlify.app/" target="_blank" style="color:red;text-align:center;">My WebSite</a>
+##### <div align="center"><a href="https://dynamic-cascaron-50bd18.netlify.app/" target="_blank">My WebSite</a></div>
   
 
 - 🌱 I’m currently learning Next.js, Mongodb and GraphQL  
